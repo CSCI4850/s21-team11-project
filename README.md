@@ -9,8 +9,8 @@ Input sentences to both models were padded with zeros for the required uniformit
 
 # Demo
 
-1) Download the file Demo.jpynb and open it using Jupyter
-2) Follow the directions in Demo.jpynb
+1) Download the file Demo.ipynb and open it using Jupyter
+2) Follow the directions in Demo.ipynb
 
 # Jupyter Help
 

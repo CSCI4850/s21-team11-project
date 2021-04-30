@@ -1,7 +1,7 @@
 # s21-team11-project
 # ESBN Team
 
-# Convolution Neural Network with Trained Word2Vec Embeddings for Part-Of-Speech Tagging of English or Latin
+# Convolution Neural Network with Trained Word2Vec Embeddings for Part-Of-Speech Tagging of English and Latin
 
 The aim of this project is to create a part-of-speech (POS) tagger for English and Latin. The taggers were developed using a Convolutional Neural Network (CNN) with an Embedding layer of trained word embeddings, dropout layers to prevent overfitting, dense layers with relu, and a dense layer with softmax at the output layer, implemented with Keras Tensorflow. The English model was trained on the Natural Language Toolkit's (nltk) Brown, Treebank, and Conll200 corpora with an embedding matrix of Word2Vec's pretrained Google News corpus. The Latin model was trained on Universal Dependencies LLCT, ITTB, and PROIEL treebanks with Word2Vec's pretrained Continuous Skipgram of the Latin CoNLL17 corpus. 
 
